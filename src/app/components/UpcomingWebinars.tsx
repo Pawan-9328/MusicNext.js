@@ -77,7 +77,7 @@ function UpcomingWebinars() {
           </Link>
         </div>
       </div>
-      UpcomingWebinars
+      
     </div>
   );
 }
